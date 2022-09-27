@@ -1,3 +1,3 @@
 function EntradaLogin () {
-    window.location='/index1.html';
+    window.location='/src/index.html';
 }
